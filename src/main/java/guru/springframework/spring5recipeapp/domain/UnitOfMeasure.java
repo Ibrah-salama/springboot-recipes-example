@@ -3,11 +3,11 @@ package guru.springframework.spring5recipeapp.domain;
 import javax.persistence.*;
 
 @Entity
-public class UnitOfMeasurements {
+public class UnitOfMeasure  {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long Id;
-    private String uom;
+    private String description;
 
 
     public Long getId() {
@@ -18,11 +18,11 @@ public class UnitOfMeasurements {
         Id = id;
     }
 
-    public String getUom() {
-        return uom;
+    public String getDescription() {
+        return description;
     }
 
-    public void setUom(String uom) {
-        this.uom = uom;
+    public void setDescription(String uom) {
+        this.description = uom;
     }
 }
