@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/Ibrah-salama/spring5-recipe-appv2/tree/main.svg?style=svg&circle-token=ec658184f5340986e014ef1ff75ec51936c43dbb)](https://circleci.com/gh/Ibrah-salama/spring5-recipe-appv2/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Ibrah-salama/springboot-recipes-example/tree/main.svg?style=svg&circle-token=7dfca8997ead6f4f18dbe6f0440d291063bc4eae)](https://dl.circleci.com/status-badge/redirect/gh/Ibrah-salama/springboot-recipes-example/tree/main)
 # Spring Boot Recipe Application Example
 
 ## Overview  
